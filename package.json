@@ -1,0 +1,18 @@
+{
+  "name": "gitbooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ebook-convert": "^2.0.1",
+    "gitbook-plugin": "0.0.2",
+    "gitbook-plugin-disqus": "^1.0.1",
+    "pdf": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
